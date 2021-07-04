@@ -7,3 +7,4 @@ Created with the help of:
 * ScriptUI for Dummies by Peter Kahrel
 * Adobe Photoshop User Forum and other fora related to scripting Adobe apps
 
+![ScriptUI-Prompt-Window](https://user-images.githubusercontent.com/14517328/124369985-5220ba80-dcb5-11eb-9f17-8325e286164e.png)
